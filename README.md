@@ -15,7 +15,7 @@ flowchart LR
     E --> F
     F --> G[Braille Conversion]
     G --> H[Arduino Output]
-
+```
 ## Braille Output Circuit
 ![Braille circuit](images/braille-circuit.png)
 ## Overview
