@@ -26,7 +26,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="images/arduino-braille-module.jpg" width="400">
+  <img src="images/arduino-braille-module.png" width="400">
   <br>
   <em>Prototype braille output module</em>
 </p>## Overview
