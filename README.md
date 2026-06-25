@@ -20,13 +20,13 @@ flowchart LR
 ## Hardware Implementation
 
 <p align="center">
-  <img src="images/braille-circuit.png" width="500">
+  <img src="images/braille-circuit.png" width="400">
   <br>
   <em>Arduino-based braille output circuit</em>
 </p>
 
 <p align="center">
-  <img src="images/arduino-braille-module.jpg" width="500">
+  <img src="images/arduino-braille-module.jpg" width="400">
   <br>
   <em>Prototype braille output module</em>
 </p>## Overview
