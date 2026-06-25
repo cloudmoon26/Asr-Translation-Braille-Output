@@ -13,6 +13,8 @@ flowchart LR
     D --> E[Image Captioning]
     C --> F[Translation]
     E --> F
+    F --> G[Braille Conversion]
+    G --> H[Arduino Output]
 
 ## Braille Output Circuit
 ![Braille circuit](images/braille-circuit.png)
@@ -36,6 +38,3 @@ This project aims to support video accessibility by converting both spoken dialo
 - Translates recognized dialogue and visual captions into Korean using an mBART-based translation model
 - Converts translated Korean text into braille
 - Sends braille output to an Arduino-based hardware module
-
-    F --> G[Braille Conversion]
-    G --> H[Arduino Output]
