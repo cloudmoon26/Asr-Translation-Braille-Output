@@ -47,14 +47,14 @@ This project aims to support video accessibility by converting both spoken dialo
 
 - Extracts audio from an input video
 - Recognizes spoken dialogue using a Whisper-based ASR module
-- Extracts video frames at regular intervals
+- Detects scene changes and extracts key frames for visual context generation
 - Generates scene descriptions using an image captioning model
 - Translates recognized dialogue and visual captions into Korean using an mBART-based translation model
+- Converts translated Korean text into braille
+- Sends braille output to an Arduino-based hardware module
 
 ## References
 
 - OpenAI Whisper: https://github.com/openai/whisper
 - Hugging Face
 - Circuit: https://www.sciencebuddies.org/science-fair-projects/project-ideas/Elec_p109/electricity-electronics/refreshable-braille-display
-- Converts translated Korean text into braille
-- Sends braille output to an Arduino-based hardware module
