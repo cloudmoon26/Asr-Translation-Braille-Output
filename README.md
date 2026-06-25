@@ -17,19 +17,24 @@ flowchart LR
     G --> H[Arduino Output]
 ```
 
+```html
 ## Hardware Implementation
 
-<p align="center">
-  <img src="images/braille-circuit.png" width="400">
-  <br>
-  <em>Arduino-based braille output circuit</em>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/braille-circuit.png" width="350"><br>
+      <em>Arduino-based braille output circuit</em>
+    </td>
+    <td align="center">
+      <img src="images/arduino-braille-module.png" width="350"><br>
+      <em>Prototype braille output module</em>
+    </td>
+  </tr>
+</table>
+```
 
-<p align="center">
-  <img src="images/arduino-braille-module.png" width="400">
-  <br>
-  <em>Prototype braille output module</em>
-</p>## Overview
+## Overview
 
 This project is a prototype system that converts video content into braille output.
 
