@@ -5,20 +5,25 @@ An AI-based accessibility system that translates foreign video content into Kore
 
 ## System Pipeline
 
-```mermaid
-flowchart LR
-    A[Input Video] --> B[Audio Extraction]
-    B --> C[Speech Recognition]
-    A --> D[Frame Extraction]
-    D --> E[Image Captioning]
-    C --> F[Translation]
-    E --> F
-    F --> G[Braille Conversion]
-    G --> H[Arduino Output]
-```
-## Braille Output Circuit
-![Braille circuit](images/braille-circuit.png)
-## Overview
+<p align="center">
+  <img src="images/system-pipeline.png" width="700">
+  <br>
+  <em>Overall pipeline of the video-to-braille translation system</em>
+</p>
+
+## Hardware Implementation
+
+<p align="center">
+  <img src="images/braille-circuit.png" width="600">
+  <br>
+  <em>Arduino-based braille output circuit</em>
+</p>
+
+<p align="center">
+  <img src="images/arduino-braille-module.jpg" width="500">
+  <br>
+  <em>Prototype braille output module</em>
+</p>## Overview
 
 This project is a prototype system that converts video content into braille output.
 
