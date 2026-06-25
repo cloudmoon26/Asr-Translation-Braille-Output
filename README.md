@@ -17,7 +17,6 @@ flowchart LR
     G --> H[Arduino Output]
 ```
 
-```html
 ## Hardware Implementation
 
 <table>
@@ -32,7 +31,6 @@ flowchart LR
     </td>
   </tr>
 </table>
-```
 
 ## Overview
 
