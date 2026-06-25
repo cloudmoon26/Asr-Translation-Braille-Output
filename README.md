@@ -5,8 +5,6 @@ An AI-based accessibility system that translates foreign video content into Kore
 - Course: Capstone Design (Artificial Intelligence)
 - Team Members: Moon, Yang, Jeong
 
-# Video-to-Braille Translation System
-
 ## System Pipeline
 
 ```mermaid
