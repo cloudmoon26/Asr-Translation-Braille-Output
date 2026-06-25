@@ -2,8 +2,7 @@
 An AI-based accessibility system that translates foreign video content into Korean braille output for visually impaired users.
 
 ## Project Information
-- Course: Capstone Design (Artificial Intelligence)
-- Team Members: Moon, Yang, Jeong
+- Course: Artificial Intelligence Capstone Design (Team Project)
 
 ## System Pipeline
 
